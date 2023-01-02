@@ -14,15 +14,13 @@
   
   This application was built using ExpressJs. Use it to save notes in a central location.
   
-  A demonstraton on this application can be found here: 
-  
   ## Installation
   
   N/A
   
   ## Usage
   
-  Access the application here: 
+  Access the application here: https://glacial-depths-51775.herokuapp.com
 
   ## License
   
