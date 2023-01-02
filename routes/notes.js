@@ -4,7 +4,7 @@ const uuid = require('../helpers/uuid');
 
 // GET Route for retrieving all the feedback
 note.get('/', (req, res) =>
-  readFromFile('./db/feedback.json').then((data) => res.json(JSON.parse(data)))
+  readFromFile('../db/db.json').then((data) => res.json(JSON.parse(data)))
 );
 
 // POST Route for submitting feedback
